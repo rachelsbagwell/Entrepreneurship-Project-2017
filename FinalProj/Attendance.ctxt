@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ Attendance(java.lang.String[])
+comment0.text=\n\ \n\ The\ Attendance\ method\ creates\ an\ ArrayList\ of\ students\ that\ were\ scanned\ in\n\ and\ determines\ whether\ they\ were\ Present,\ Tardy,\ or\ Absent\ based\ on\ the\ int\ time\ \n\ value\ they\ were\ scanned\ in\ at\ after\ time\ 0\ (when\ class\ begins)\n\ \n
+numComments=1
